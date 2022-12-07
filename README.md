@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Lovatoty
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security and its geoplitical and economic ramifications.
-- 📫 How to reach me Github and LinkedIN.
+﻿# Welcome to my GitHub!
 
-<!---
-Lovatoty/Lovatoty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm @LovatoTy, and this is my GitHub. I am a cyber security analyst, so I don't have a lot of code here. 
+
+## What you will find here.
+You will find some old projects that I have worked on over the years. I will likely start adding some Arduino code soon as well.
+
+
+## How to contact me.
+
+You can contact me via GitHub, or on LinkedIn with the same handle. I promise I will check it about every two months.
+
+
